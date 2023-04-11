@@ -35,8 +35,5 @@
 ~~Зачёркнутый текст~~
 
 
-
-*Более подробную информацию можно изучить перейдя по ссылке*
-[Ссылка](https://docs.microsoft.com/ru-ru/contribute/markdown-reference)
-
-![Картинка](loon-image-original-20-2048x1371.jpg)
+**Более подробную информацию можно изучить перейдя по ссылке**
+**[Ссылка](https://docs.microsoft.com/ru-ru/contribute/markdown-reference)**
